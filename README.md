@@ -115,16 +115,4 @@ moviemingle/
    python manage.py migrate
    python manage.py runserver
    ```
-
----
-
-## 📬 Feedback or Suggestions?
-
-We welcome contributions, suggestions, and movie lovers! Open a PR or raise an issue.
-Drop a mail [Vinay @ SkyllX](mailto:vinay@skyllx.com) || [Vinay H P](mailto:vinayhp.paramesh@gmail.com)
-
----
-
-## 📄 License
-
-MIT License. © 2025 [SkyllX Technologies Pvt Ltd](www.skyllx.com)
+   
